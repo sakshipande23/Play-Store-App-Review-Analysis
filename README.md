@@ -1,11 +1,3 @@
-# Play-Store-App-Review-Analysis
-
-Let me review the notebook you uploaded to understand the project and create a detailed `README.md` file for it. One moment while I analyze the file.
-
-The notebook appears to focus on analyzing Google Play Store app data, exploring insights into app characteristics, user reviews, and market trends. Here's a detailed `README.md` file for your project:
-
----
-
 # Play Store App Review Analysis
 
 ## Project Summary
